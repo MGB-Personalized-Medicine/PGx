@@ -7,7 +7,7 @@ pgx:
     java: "/PATH/TO/java" #i.e. /source/jdk/1.8.0/bin/java"
     picard: "/PATH/TO/picard.jar" #tested with 2.18.3
     roi_bed: "../lib/pgx/PGX/PGX_genotyping.bed"
-    dbsnp: "../lib//pgx/PGX/All_20161121.vcf.gz"
+    dbsnp: "../lib/pgx/PGX/All_20161121.vcf.gz"
   gene_annotations_dir: "../lib/pgx/PGX/genes"
   cyp2d6_gt_to_pheno: "DESIRED/PATH/TO/FOLDER/CONTAINING/cyp2d6_gt_to_pheno"
   fda_drugs: "../lib/pgx/PGX/PGX_FDA_drugs.txt"
