@@ -1,0 +1,11 @@
+Diplotype	Phenotype	Diplotype Notes	7:99270539_rs776746_C_T	7:99262835_rs10264272_C_T	7:99250393_rs41303343_T_TA
+CYP3A5 *1/*1	CYP3A5 Normal metabolizer		HOM	WT	WT
+CYP3A5 *1/*3	CYP3A5 Intermediate metabolizer		HET	WT	WT
+CYP3A5 *1/*6	CYP3A5 Intermediate metabolizer		HOM	HET	WT
+CYP3A5 *1/*7	CYP3A5 Intermediate metabolizer		HOM	WT	HET
+CYP3A5 *3/*3	CYP3A5 Poor metabolizer		WT	WT	WT
+CYP3A5 *3/*6	CYP3A5 Poor metabolizer	"A compound heterozygous result was obtained for this patient, and a diplotype and phenotype were assigned as if the variant alleles were in trans. However, the rare possibility exists that the variant alleles are in cis, which would possibly result in a different phenotype."	HET	HET	WT
+CYP3A5 *3/*7	CYP3A5 Poor metabolizer	"A compound heterozygous result was obtained for this patient, and a diplotype and phenotype were assigned as if the variant alleles were in trans. However, the rare possibility exists that the variant alleles are in cis, which would possibly result in a different phenotype."	HET	WT	HET
+CYP3A5 *6/*6	CYP3A5 Poor metabolizer		HOM	HOM	WT
+CYP3A5 *6/*7	CYP3A5 Poor metabolizer	"A compound heterozygous result was obtained for this patient, and a diplotype and phenotype were assigned as if the variant alleles were in trans. However, the rare possibility exists that the variant alleles are in cis, which would possibly result in a different phenotype."	HOM	HET	HET
+CYP3A5 *7/*7	CYP3A5 Poor metabolizer		HOM	WT	HOM

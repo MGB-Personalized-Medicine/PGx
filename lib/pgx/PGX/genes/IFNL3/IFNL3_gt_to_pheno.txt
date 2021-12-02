@@ -1,0 +1,4 @@
+Diplotype	Phenotype	Diplotype Notes	19:39738787_rs12979860_C_T
+IFNL3 c.-3180G/c.-3180G>A	IFNL3 Unfavorable response		HET
+IFNL3 c.-3180G>A/c.-3180G>A	IFNL3 Unfavorable response		HOM
+IFNL3 c.-3180G/c.-3180G	IFNL3 Favorable response		WT

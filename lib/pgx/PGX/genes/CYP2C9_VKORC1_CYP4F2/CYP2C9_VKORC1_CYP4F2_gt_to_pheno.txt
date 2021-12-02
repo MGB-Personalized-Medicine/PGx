@@ -1,0 +1,253 @@
+Diplotype	Phenotype	Diplotype Notes	10:96702047_rs1799853_C_T	10:96741053_rs1057910_A_C	10:96741058_rs28371686_C_G	10:96709038_rs9332131_GA_G	10:96702066_rs7900194_G_A	10:96740981_rs28371685_C_T	16:31107689_rs9923231_C_T	19:15990431_rs2108622_C_T
+CYP2C9 *1/*1; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Normal metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	WT	WT	WT	WT	WT
+CYP2C9 *1/*1; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Normal metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	WT	WT	WT	HET	WT
+CYP2C9 *1/*1; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Normal metabolizer & Low VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	WT	WT	WT	HOM	WT
+CYP2C9 *1/*1; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Normal metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	WT	WT	WT	WT	HET
+CYP2C9 *1/*1; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Normal metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	WT	WT	WT	HET	HET
+CYP2C9 *1/*1; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Normal metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	WT	WT	WT	HOM	HET
+CYP2C9 *1/*1; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Normal metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	WT	WT	WT	WT	HOM
+CYP2C9 *1/*1; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Normal metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	WT	WT	WT	HET	HOM
+CYP2C9 *1/*1; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Normal metabolizer & Low VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	WT	WT	WT	HOM	HOM
+CYP2C9 *3/*3; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Poor metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		WT	HOM	WT	WT	WT	WT	WT	WT
+CYP2C9 *3/*3; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Poor metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		WT	HOM	WT	WT	WT	WT	HET	WT
+CYP2C9 *3/*3; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Poor metabolizer & Low VKORC1 expression & Normal CYP4F2 function		WT	HOM	WT	WT	WT	WT	HOM	WT
+CYP2C9 *3/*3; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Poor metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		WT	HOM	WT	WT	WT	WT	WT	HET
+CYP2C9 *3/*3; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Poor metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		WT	HOM	WT	WT	WT	WT	HET	HET
+CYP2C9 *3/*3; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Poor metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		WT	HOM	WT	WT	WT	WT	HOM	HET
+CYP2C9 *3/*3; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Poor metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		WT	HOM	WT	WT	WT	WT	WT	HOM
+CYP2C9 *3/*3; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Poor metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		WT	HOM	WT	WT	WT	WT	HET	HOM
+CYP2C9 *3/*3; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Poor metabolizer & Low VKORC1 expression & Poor CYP4F2 function		WT	HOM	WT	WT	WT	WT	HOM	HOM
+CYP2C9 *1/*3; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Intermediate metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		WT	HET	WT	WT	WT	WT	WT	WT
+CYP2C9 *1/*3; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Intermediate metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		WT	HET	WT	WT	WT	WT	HET	WT
+CYP2C9 *1/*3; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Intermediate metabolizer & Low VKORC1 expression & Normal CYP4F2 function		WT	HET	WT	WT	WT	WT	HOM	WT
+CYP2C9 *1/*3; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Intermediate metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		WT	HET	WT	WT	WT	WT	WT	HET
+CYP2C9 *1/*3; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Intermediate metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		WT	HET	WT	WT	WT	WT	HET	HET
+CYP2C9 *1/*3; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Intermediate metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		WT	HET	WT	WT	WT	WT	HOM	HET
+CYP2C9 *1/*3; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Intermediate metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		WT	HET	WT	WT	WT	WT	WT	HOM
+CYP2C9 *1/*3; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Intermediate metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		WT	HET	WT	WT	WT	WT	HET	HOM
+CYP2C9 *1/*3; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Intermediate metabolizer & Low VKORC1 expression & Poor CYP4F2 function		WT	HET	WT	WT	WT	WT	HOM	HOM
+CYP2C9 *1/*2; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Intermediate metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		HET	WT	WT	WT	WT	WT	WT	WT
+CYP2C9 *1/*2; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Intermediate metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		HET	WT	WT	WT	WT	WT	HET	WT
+CYP2C9 *1/*2; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Intermediate metabolizer & Low VKORC1 expression & Normal CYP4F2 function		HET	WT	WT	WT	WT	WT	HOM	WT
+CYP2C9 *1/*2; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Intermediate metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		HET	WT	WT	WT	WT	WT	WT	HET
+CYP2C9 *1/*2; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Intermediate metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		HET	WT	WT	WT	WT	WT	HET	HET
+CYP2C9 *1/*2; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Intermediate metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		HET	WT	WT	WT	WT	WT	HOM	HET
+CYP2C9 *1/*2; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Intermediate metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		HET	WT	WT	WT	WT	WT	WT	HOM
+CYP2C9 *1/*2; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Intermediate metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		HET	WT	WT	WT	WT	WT	HET	HOM
+CYP2C9 *1/*2; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Intermediate metabolizer & Low VKORC1 expression & Poor CYP4F2 function		HET	WT	WT	WT	WT	WT	HOM	HOM
+CYP2C9 *2/*3; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Poor metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		HET	HET	WT	WT	WT	WT	WT	WT
+CYP2C9 *2/*3; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Poor metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		HET	HET	WT	WT	WT	WT	HET	WT
+CYP2C9 *2/*3; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Poor metabolizer & Low VKORC1 expression & Normal CYP4F2 function		HET	HET	WT	WT	WT	WT	HOM	WT
+CYP2C9 *2/*3; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Poor metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		HET	HET	WT	WT	WT	WT	WT	HET
+CYP2C9 *2/*3; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Poor metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		HET	HET	WT	WT	WT	WT	HET	HET
+CYP2C9 *2/*3; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Poor metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		HET	HET	WT	WT	WT	WT	HOM	HET
+CYP2C9 *2/*3; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Poor metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		HET	HET	WT	WT	WT	WT	WT	HOM
+CYP2C9 *2/*3; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Poor metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		HET	HET	WT	WT	WT	WT	HET	HOM
+CYP2C9 *2/*3; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Poor metabolizer & Low VKORC1 expression & Poor CYP4F2 function		HET	HET	WT	WT	WT	WT	HOM	HOM
+CYP2C9 *2/*2; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Poor metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		HOM	WT	WT	WT	WT	WT	WT	WT
+CYP2C9 *2/*2; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Poor metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		HOM	WT	WT	WT	WT	WT	HET	WT
+CYP2C9 *2/*2; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Poor metabolizer & Low VKORC1 expression & Normal CYP4F2 function		HOM	WT	WT	WT	WT	WT	HOM	WT
+CYP2C9 *2/*2; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Poor metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		HOM	WT	WT	WT	WT	WT	WT	HET
+CYP2C9 *2/*2; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Poor metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		HOM	WT	WT	WT	WT	WT	HET	HET
+CYP2C9 *2/*2; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Poor metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		HOM	WT	WT	WT	WT	WT	HOM	HET
+CYP2C9 *2/*2; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Poor metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		HOM	WT	WT	WT	WT	WT	WT	HOM
+CYP2C9 *2/*2; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Poor metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		HOM	WT	WT	WT	WT	WT	HET	HOM
+CYP2C9 *2/*2; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Poor metabolizer & Low VKORC1 expression & Poor CYP4F2 function		HOM	WT	WT	WT	WT	WT	HOM	HOM
+CYP2C9 *1/*5; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Possible Intermediate metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		WT	WT	HET	WT	WT	WT	WT	WT
+CYP2C9 *1/*5; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Possible Intermediate metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		WT	WT	HET	WT	WT	WT	HET	WT
+CYP2C9 *1/*5; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Possible Intermediate metabolizer & Low VKORC1 expression & Normal CYP4F2 function		WT	WT	HET	WT	WT	WT	HOM	WT
+CYP2C9 *1/*5; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Possible Intermediate metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		WT	WT	HET	WT	WT	WT	WT	HET
+CYP2C9 *1/*5; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Possible Intermediate metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		WT	WT	HET	WT	WT	WT	HET	HET
+CYP2C9 *1/*5; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Possible Intermediate metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		WT	WT	HET	WT	WT	WT	HOM	HET
+CYP2C9 *1/*5; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Possible Intermediate metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		WT	WT	HET	WT	WT	WT	WT	HOM
+CYP2C9 *1/*5; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Possible Intermediate metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		WT	WT	HET	WT	WT	WT	HET	HOM
+CYP2C9 *1/*5; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Possible Intermediate metabolizer & Low VKORC1 expression & Poor CYP4F2 function		WT	WT	HET	WT	WT	WT	HOM	HOM
+CYP2C9 *1/*6; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Intermediate metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	HET	WT	WT	WT	WT
+CYP2C9 *1/*6; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Intermediate metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	HET	WT	WT	HET	WT
+CYP2C9 *1/*6; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Intermediate metabolizer & Low VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	HET	WT	WT	HOM	WT
+CYP2C9 *1/*6; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Intermediate metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	HET	WT	WT	WT	HET
+CYP2C9 *1/*6; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Intermediate metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	HET	WT	WT	HET	HET
+CYP2C9 *1/*6; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Intermediate metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	HET	WT	WT	HOM	HET
+CYP2C9 *1/*6; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Intermediate metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	HET	WT	WT	WT	HOM
+CYP2C9 *1/*6; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Intermediate metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	HET	WT	WT	HET	HOM
+CYP2C9 *1/*6; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Intermediate metabolizer & Low VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	HET	WT	WT	HOM	HOM
+CYP2C9 *1/*8; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Possible Intermediate metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	WT	HET	WT	WT	WT
+CYP2C9 *1/*8; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Possible Intermediate metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	WT	HET	WT	HET	WT
+CYP2C9 *1/*8; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Possible Intermediate metabolizer & Low VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	WT	HET	WT	HOM	WT
+CYP2C9 *1/*8; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Possible Intermediate metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	WT	HET	WT	WT	HET
+CYP2C9 *1/*8; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Possible Intermediate metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	WT	HET	WT	HET	HET
+CYP2C9 *1/*8; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Possible Intermediate metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	WT	HET	WT	HOM	HET
+CYP2C9 *1/*8; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Possible Intermediate metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	WT	HET	WT	WT	HOM
+CYP2C9 *1/*8; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Possible Intermediate metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	WT	HET	WT	HET	HOM
+CYP2C9 *1/*8; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Possible Intermediate metabolizer & Low VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	WT	HET	WT	HOM	HOM
+CYP2C9 *1/*11; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Possible Intermediate metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	WT	WT	HET	WT	WT
+CYP2C9 *1/*11; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Possible Intermediate metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	WT	WT	HET	HET	WT
+CYP2C9 *1/*11; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Possible Intermediate metabolizer & Low VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	WT	WT	HET	HOM	WT
+CYP2C9 *1/*11; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Possible Intermediate metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	WT	WT	HET	WT	HET
+CYP2C9 *1/*11; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Possible Intermediate metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	WT	WT	HET	HET	HET
+CYP2C9 *1/*11; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Possible Intermediate metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	WT	WT	HET	HOM	HET
+CYP2C9 *1/*11; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Possible Intermediate metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	WT	WT	HET	WT	HOM
+CYP2C9 *1/*11; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Possible Intermediate metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	WT	WT	HET	HET	HOM
+CYP2C9 *1/*11; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Possible Intermediate metabolizer & Low VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	WT	WT	HET	HOM	HOM
+CYP2C9 *2/*5; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		HET	WT	HET	WT	WT	WT	WT	WT
+CYP2C9 *2/*5; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		HET	WT	HET	WT	WT	WT	HET	WT
+CYP2C9 *2/*5; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Normal CYP4F2 function		HET	WT	HET	WT	WT	WT	HOM	WT
+CYP2C9 *2/*5; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		HET	WT	HET	WT	WT	WT	WT	HET
+CYP2C9 *2/*5; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		HET	WT	HET	WT	WT	WT	HET	HET
+CYP2C9 *2/*5; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		HET	WT	HET	WT	WT	WT	HOM	HET
+CYP2C9 *2/*5; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		HET	WT	HET	WT	WT	WT	WT	HOM
+CYP2C9 *2/*5; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		HET	WT	HET	WT	WT	WT	HET	HOM
+CYP2C9 *2/*5; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Poor CYP4F2 function		HET	WT	HET	WT	WT	WT	HOM	HOM
+CYP2C9 *3/*5; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		WT	HET	HET	WT	WT	WT	WT	WT
+CYP2C9 *3/*5; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		WT	HET	HET	WT	WT	WT	HET	WT
+CYP2C9 *3/*5; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Normal CYP4F2 function		WT	HET	HET	WT	WT	WT	HOM	WT
+CYP2C9 *3/*5; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		WT	HET	HET	WT	WT	WT	WT	HET
+CYP2C9 *3/*5; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		WT	HET	HET	WT	WT	WT	HET	HET
+CYP2C9 *3/*5; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		WT	HET	HET	WT	WT	WT	HOM	HET
+CYP2C9 *3/*5; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		WT	HET	HET	WT	WT	WT	WT	HOM
+CYP2C9 *3/*5; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		WT	HET	HET	WT	WT	WT	HET	HOM
+CYP2C9 *3/*5; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Poor CYP4F2 function		WT	HET	HET	WT	WT	WT	HOM	HOM
+CYP2C9 *5/*5; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		WT	WT	HOM	WT	WT	WT	WT	WT
+CYP2C9 *5/*5; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		WT	WT	HOM	WT	WT	WT	HET	WT
+CYP2C9 *5/*5; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Normal CYP4F2 function		WT	WT	HOM	WT	WT	WT	HOM	WT
+CYP2C9 *5/*5; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		WT	WT	HOM	WT	WT	WT	WT	HET
+CYP2C9 *5/*5; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		WT	WT	HOM	WT	WT	WT	HET	HET
+CYP2C9 *5/*5; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		WT	WT	HOM	WT	WT	WT	HOM	HET
+CYP2C9 *5/*5; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		WT	WT	HOM	WT	WT	WT	WT	HOM
+CYP2C9 *5/*5; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		WT	WT	HOM	WT	WT	WT	HET	HOM
+CYP2C9 *5/*5; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Poor CYP4F2 function		WT	WT	HOM	WT	WT	WT	HOM	HOM
+CYP2C9 *5/*6; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		WT	WT	HET	HET	WT	WT	WT	WT
+CYP2C9 *5/*6; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		WT	WT	HET	HET	WT	WT	HET	WT
+CYP2C9 *5/*6; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Normal CYP4F2 function		WT	WT	HET	HET	WT	WT	HOM	WT
+CYP2C9 *5/*6; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		WT	WT	HET	HET	WT	WT	WT	HET
+CYP2C9 *5/*6; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		WT	WT	HET	HET	WT	WT	HET	HET
+CYP2C9 *5/*6; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		WT	WT	HET	HET	WT	WT	HOM	HET
+CYP2C9 *5/*6; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		WT	WT	HET	HET	WT	WT	WT	HOM
+CYP2C9 *5/*6; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		WT	WT	HET	HET	WT	WT	HET	HOM
+CYP2C9 *5/*6; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Poor CYP4F2 function		WT	WT	HET	HET	WT	WT	HOM	HOM
+CYP2C9 *5/*8; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		WT	WT	HET	WT	HET	WT	WT	WT
+CYP2C9 *5/*8; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		WT	WT	HET	WT	HET	WT	HET	WT
+CYP2C9 *5/*8; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Normal CYP4F2 function		WT	WT	HET	WT	HET	WT	HOM	WT
+CYP2C9 *5/*8; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		WT	WT	HET	WT	HET	WT	WT	HET
+CYP2C9 *5/*8; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		WT	WT	HET	WT	HET	WT	HET	HET
+CYP2C9 *5/*8; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		WT	WT	HET	WT	HET	WT	HOM	HET
+CYP2C9 *5/*8; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		WT	WT	HET	WT	HET	WT	WT	HOM
+CYP2C9 *5/*8; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		WT	WT	HET	WT	HET	WT	HET	HOM
+CYP2C9 *5/*8; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Poor CYP4F2 function		WT	WT	HET	WT	HET	WT	HOM	HOM
+CYP2C9 *5/*11; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		WT	WT	HET	WT	WT	HET	WT	WT
+CYP2C9 *5/*11; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		WT	WT	HET	WT	WT	HET	HET	WT
+CYP2C9 *5/*11; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Normal CYP4F2 function		WT	WT	HET	WT	WT	HET	HOM	WT
+CYP2C9 *5/*11; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		WT	WT	HET	WT	WT	HET	WT	HET
+CYP2C9 *5/*11; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		WT	WT	HET	WT	WT	HET	HET	HET
+CYP2C9 *5/*11; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		WT	WT	HET	WT	WT	HET	HOM	HET
+CYP2C9 *5/*11; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		WT	WT	HET	WT	WT	HET	WT	HOM
+CYP2C9 *5/*11; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		WT	WT	HET	WT	WT	HET	HET	HOM
+CYP2C9 *5/*11; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Poor CYP4F2 function		WT	WT	HET	WT	WT	HET	HOM	HOM
+CYP2C9 *2/*6; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Poor metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		HET	WT	WT	HET	WT	WT	WT	WT
+CYP2C9 *2/*6; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Poor metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		HET	WT	WT	HET	WT	WT	HET	WT
+CYP2C9 *2/*6; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Poor metabolizer & Low VKORC1 expression & Normal CYP4F2 function		HET	WT	WT	HET	WT	WT	HOM	WT
+CYP2C9 *2/*6; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Poor metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		HET	WT	WT	HET	WT	WT	WT	HET
+CYP2C9 *2/*6; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Poor metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		HET	WT	WT	HET	WT	WT	HET	HET
+CYP2C9 *2/*6; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Poor metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		HET	WT	WT	HET	WT	WT	HOM	HET
+CYP2C9 *2/*6; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Poor metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		HET	WT	WT	HET	WT	WT	WT	HOM
+CYP2C9 *2/*6; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Poor metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		HET	WT	WT	HET	WT	WT	HET	HOM
+CYP2C9 *2/*6; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Poor metabolizer & Low VKORC1 expression & Poor CYP4F2 function		HET	WT	WT	HET	WT	WT	HOM	HOM
+CYP2C9 *3/*6; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Poor metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		WT	HET	WT	HET	WT	WT	WT	WT
+CYP2C9 *3/*6; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Poor metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		WT	HET	WT	HET	WT	WT	HET	WT
+CYP2C9 *3/*6; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Poor metabolizer & Low VKORC1 expression & Normal CYP4F2 function		WT	HET	WT	HET	WT	WT	HOM	WT
+CYP2C9 *3/*6; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Poor metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		WT	HET	WT	HET	WT	WT	WT	HET
+CYP2C9 *3/*6; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Poor metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		WT	HET	WT	HET	WT	WT	HET	HET
+CYP2C9 *3/*6; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Poor metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		WT	HET	WT	HET	WT	WT	HOM	HET
+CYP2C9 *3/*6; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Poor metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		WT	HET	WT	HET	WT	WT	WT	HOM
+CYP2C9 *3/*6; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Poor metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		WT	HET	WT	HET	WT	WT	HET	HOM
+CYP2C9 *3/*6; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Poor metabolizer & Low VKORC1 expression & Poor CYP4F2 function		WT	HET	WT	HET	WT	WT	HOM	HOM
+CYP2C9 *6/*6; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Poor metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	HOM	WT	WT	WT	WT
+CYP2C9 *6/*6; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Poor metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	HOM	WT	WT	HET	WT
+CYP2C9 *6/*6; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Poor metabolizer & Low VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	HOM	WT	WT	HOM	WT
+CYP2C9 *6/*6; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Poor metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	HOM	WT	WT	WT	HET
+CYP2C9 *6/*6; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Poor metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	HOM	WT	WT	HET	HET
+CYP2C9 *6/*6; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Poor metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	HOM	WT	WT	HOM	HET
+CYP2C9 *6/*6; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Poor metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	HOM	WT	WT	WT	HOM
+CYP2C9 *6/*6; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Poor metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	HOM	WT	WT	HET	HOM
+CYP2C9 *6/*6; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Poor metabolizer & Low VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	HOM	WT	WT	HOM	HOM
+CYP2C9 *6/*8; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	HET	HET	WT	WT	WT
+CYP2C9 *6/*8; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	HET	HET	WT	HET	WT
+CYP2C9 *6/*8; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	HET	HET	WT	HOM	WT
+CYP2C9 *6/*8; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	HET	HET	WT	WT	HET
+CYP2C9 *6/*8; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	HET	HET	WT	HET	HET
+CYP2C9 *6/*8; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	HET	HET	WT	HOM	HET
+CYP2C9 *6/*8; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	HET	HET	WT	WT	HOM
+CYP2C9 *6/*8; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	HET	HET	WT	HET	HOM
+CYP2C9 *6/*8; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	HET	HET	WT	HOM	HOM
+CYP2C9 *6/*11; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	HET	WT	HET	WT	WT
+CYP2C9 *6/*11; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	HET	WT	HET	HET	WT
+CYP2C9 *6/*11; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	HET	WT	HET	HOM	WT
+CYP2C9 *6/*11; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	HET	WT	HET	WT	HET
+CYP2C9 *6/*11; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	HET	WT	HET	HET	HET
+CYP2C9 *6/*11; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	HET	WT	HET	HOM	HET
+CYP2C9 *6/*11; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	HET	WT	HET	WT	HOM
+CYP2C9 *6/*11; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	HET	WT	HET	HET	HOM
+CYP2C9 *6/*11; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	HET	WT	HET	HOM	HOM
+CYP2C9 *2/*8; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		HET	WT	WT	WT	HET	WT	WT	WT
+CYP2C9 *2/*8; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		HET	WT	WT	WT	HET	WT	HET	WT
+CYP2C9 *2/*8; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Normal CYP4F2 function		HET	WT	WT	WT	HET	WT	HOM	WT
+CYP2C9 *2/*8; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		HET	WT	WT	WT	HET	WT	WT	HET
+CYP2C9 *2/*8; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		HET	WT	WT	WT	HET	WT	HET	HET
+CYP2C9 *2/*8; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		HET	WT	WT	WT	HET	WT	HOM	HET
+CYP2C9 *2/*8; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		HET	WT	WT	WT	HET	WT	WT	HOM
+CYP2C9 *2/*8; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		HET	WT	WT	WT	HET	WT	HET	HOM
+CYP2C9 *2/*8; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Poor CYP4F2 function		HET	WT	WT	WT	HET	WT	HOM	HOM
+CYP2C9 *3/*8; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		WT	HET	WT	WT	HET	WT	WT	WT
+CYP2C9 *3/*8; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		WT	HET	WT	WT	HET	WT	HET	WT
+CYP2C9 *3/*8; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Normal CYP4F2 function		WT	HET	WT	WT	HET	WT	HOM	WT
+CYP2C9 *3/*8; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		WT	HET	WT	WT	HET	WT	WT	HET
+CYP2C9 *3/*8; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		WT	HET	WT	WT	HET	WT	HET	HET
+CYP2C9 *3/*8; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		WT	HET	WT	WT	HET	WT	HOM	HET
+CYP2C9 *3/*8; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		WT	HET	WT	WT	HET	WT	WT	HOM
+CYP2C9 *3/*8; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		WT	HET	WT	WT	HET	WT	HET	HOM
+CYP2C9 *3/*8; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Poor CYP4F2 function		WT	HET	WT	WT	HET	WT	HOM	HOM
+CYP2C9 *8/*8; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	WT	HOM	WT	WT	WT
+CYP2C9 *8/*8; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	WT	HOM	WT	HET	WT
+CYP2C9 *8/*8; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	WT	HOM	WT	HOM	WT
+CYP2C9 *8/*8; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	WT	HOM	WT	WT	HET
+CYP2C9 *8/*8; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	WT	HOM	WT	HET	HET
+CYP2C9 *8/*8; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	WT	HOM	WT	HOM	HET
+CYP2C9 *8/*8; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	WT	HOM	WT	WT	HOM
+CYP2C9 *8/*8; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	WT	HOM	WT	HET	HOM
+CYP2C9 *8/*8; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	WT	HOM	WT	HOM	HOM
+CYP2C9 *8/*11; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	WT	HET	HET	WT	WT
+CYP2C9 *8/*11; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	WT	HET	HET	HET	WT
+CYP2C9 *8/*11; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	WT	HET	HET	HOM	WT
+CYP2C9 *8/*11; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	WT	HET	HET	WT	HET
+CYP2C9 *8/*11; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	WT	HET	HET	HET	HET
+CYP2C9 *8/*11; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	WT	HET	HET	HOM	HET
+CYP2C9 *8/*11; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	WT	HET	HET	WT	HOM
+CYP2C9 *8/*11; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	WT	HET	HET	HET	HOM
+CYP2C9 *8/*11; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	WT	HET	HET	HOM	HOM
+CYP2C9 *2/*11; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		HET	WT	WT	WT	WT	HET	WT	WT
+CYP2C9 *2/*11; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		HET	WT	WT	WT	WT	HET	HET	WT
+CYP2C9 *2/*11; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Normal CYP4F2 function		HET	WT	WT	WT	WT	HET	HOM	WT
+CYP2C9 *2/*11; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		HET	WT	WT	WT	WT	HET	WT	HET
+CYP2C9 *2/*11; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		HET	WT	WT	WT	WT	HET	HET	HET
+CYP2C9 *2/*11; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		HET	WT	WT	WT	WT	HET	HOM	HET
+CYP2C9 *2/*11; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		HET	WT	WT	WT	WT	HET	WT	HOM
+CYP2C9 *2/*11; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		HET	WT	WT	WT	WT	HET	HET	HOM
+CYP2C9 *2/*11; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Poor CYP4F2 function		HET	WT	WT	WT	WT	HET	HOM	HOM
+CYP2C9 *3/*11; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		WT	HET	WT	WT	WT	HET	WT	WT
+CYP2C9 *3/*11; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		WT	HET	WT	WT	WT	HET	HET	WT
+CYP2C9 *3/*11; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Normal CYP4F2 function		WT	HET	WT	WT	WT	HET	HOM	WT
+CYP2C9 *3/*11; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		WT	HET	WT	WT	WT	HET	WT	HET
+CYP2C9 *3/*11; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		WT	HET	WT	WT	WT	HET	HET	HET
+CYP2C9 *3/*11; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		WT	HET	WT	WT	WT	HET	HOM	HET
+CYP2C9 *3/*11; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		WT	HET	WT	WT	WT	HET	WT	HOM
+CYP2C9 *3/*11; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		WT	HET	WT	WT	WT	HET	HET	HOM
+CYP2C9 *3/*11; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Poor CYP4F2 function		WT	HET	WT	WT	WT	HET	HOM	HOM
+CYP2C9 *11/*11; VKORC1 G/G; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	WT	WT	HOM	WT	WT
+CYP2C9 *11/*11; VKORC1 G/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	WT	WT	HOM	HET	WT
+CYP2C9 *11/*11; VKORC1 A/A; CYP4F2 *1/*1	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Normal CYP4F2 function		WT	WT	WT	WT	WT	HOM	HOM	WT
+CYP2C9 *11/*11; VKORC1 G/G; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	WT	WT	HOM	WT	HET
+CYP2C9 *11/*11; VKORC1 G/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	WT	WT	HOM	HET	HET
+CYP2C9 *11/*11; VKORC1 A/A; CYP4F2 *1/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Decreased CYP4F2 function		WT	WT	WT	WT	WT	HOM	HOM	HET
+CYP2C9 *11/*11; VKORC1 G/G; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Normal VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	WT	WT	HOM	WT	HOM
+CYP2C9 *11/*11; VKORC1 G/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Intermediate VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	WT	WT	HOM	HET	HOM
+CYP2C9 *11/*11; VKORC1 A/A; CYP4F2 *3/*3	CYP2C9 Possible Poor metabolizer & Low VKORC1 expression & Poor CYP4F2 function		WT	WT	WT	WT	WT	HOM	HOM	HOM

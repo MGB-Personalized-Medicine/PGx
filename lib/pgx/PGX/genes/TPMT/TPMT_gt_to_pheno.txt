@@ -1,0 +1,21 @@
+Diplotype	Phenotype	Diplotype Notes	6:18143955_rs1800462_C_G	6:18139228_rs1800460_C_T	6:18130918_rs1142345_T_C	6:18131012_rs1800584_C_T
+TPMT *1/*4	TPMT Intermediate metabolizer		WT	WT	WT	HET
+TPMT *1/*3C	TPMT Intermediate metabolizer		WT	WT	HET	WT
+TPMT *1/*3B	TPMT Intermediate metabolizer		WT	HET	WT	WT
+TPMT *1/*3A or TPMT *3B/*3C	TPMT Intermediate metabolizer or Poor metabolizer		WT	HET	HET	WT
+TPMT *1/*2	TPMT Intermediate metabolizer		HET	WT	WT	WT
+TPMT *4/*4	TPMT Poor metabolizer		WT	WT	WT	HOM
+TPMT *3C/*3C	TPMT Poor metabolizer		WT	WT	HOM	WT
+TPMT *3B/*3B	TPMT Poor metabolizer		WT	HOM	WT	WT
+TPMT *3A/*3A	TPMT Poor metabolizer		WT	HOM	HOM	WT
+TPMT *3A/*3C	TPMT Poor metabolizer		WT	HET	HOM	WT
+TPMT *3A/*3B	TPMT Poor metabolizer		WT	HOM	HET	WT
+TPMT *3A/*4	TPMT Poor metabolizer	"A compound heterozygous result was obtained for this patient, and a diplotype and phenotype were assigned as if the variant alleles were in trans. However, the rare possibility exists that the variant alleles are in cis, which would possibly result in a different phenotype."	WT	HET	HET	HET
+TPMT *3B/*4	TPMT Poor metabolizer	"A compound heterozygous result was obtained for this patient, and a diplotype and phenotype were assigned as if the variant alleles were in trans. However, the rare possibility exists that the variant alleles are in cis, which would possibly result in a different phenotype."	WT	HET	WT	HET
+TPMT *3C/*4	TPMT Poor metabolizer	"A compound heterozygous result was obtained for this patient, and a diplotype and phenotype were assigned as if the variant alleles were in trans. However, the rare possibility exists that the variant alleles are in cis, which would possibly result in a different phenotype."	WT	WT	HET	HET
+TPMT *2/*4	TPMT Poor metabolizer	"A compound heterozygous result was obtained for this patient, and a diplotype and phenotype were assigned as if the variant alleles were in trans. However, the rare possibility exists that the variant alleles are in cis, which would possibly result in a different phenotype."	HET	WT	WT	HET
+TPMT *2/*3C	TPMT Poor metabolizer	"A compound heterozygous result was obtained for this patient, and a diplotype and phenotype were assigned as if the variant alleles were in trans. However, the rare possibility exists that the variant alleles are in cis, which would possibly result in a different phenotype."	HET	WT	HET	WT
+TPMT *2/*3B	TPMT Poor metabolizer	"A compound heterozygous result was obtained for this patient, and a diplotype and phenotype were assigned as if the variant alleles were in trans. However, the rare possibility exists that the variant alleles are in cis, which would possibly result in a different phenotype."	HET	HET	WT	WT
+TPMT *2/*3A	TPMT Poor metabolizer	"A compound heterozygous result was obtained for this patient, and a diplotype and phenotype were assigned as if the variant alleles were in trans. However, the rare possibility exists that the variant alleles are in cis, which would possibly result in a different phenotype."	HET	HET	HET	WT
+TPMT *2/*2	TPMT Poor metabolizer		HOM	WT	WT	WT
+TPMT *1/*1	TPMT Normal metabolizer		WT	WT	WT	WT

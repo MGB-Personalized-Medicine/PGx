@@ -1,0 +1,16 @@
+#Any relative paths here must be relative to the run directory. It's best to update them with absolute paths
+pgx:
+  test_code: "PGX"
+  genotyping:
+    gatk: "PATH/TO/GATK/gatk" #tested with GATK 4.0.3.0
+    java_options: "-Xms12g -Xmx40g -Djava.io.tmpdir=/PATH/TO/TEMP/DIRECTORY/FOR/GATK/OUTPUTS/"
+    java: "/PATH/TO/java" #i.e. /source/jdk/1.8.0/bin/java"
+    picard: "/PATH/TO/picard.jar" #tested with 2.18.3
+    roi_bed: "../lib/pgx/PGX/PGX_genotyping.bed"
+    dbsnp: "../lib//pgx/PGX/All_20161121.vcf.gz"
+  gene_annotations_dir: "../lib/pgx/PGX/genes"
+  cyp2d6_gt_to_pheno: "DESIRED/PATH/TO/FOLDER/CONTAINING/cyp2d6_gt_to_pheno"
+  fda_drugs: "../lib/pgx/PGX/PGX_FDA_drugs.txt"
+  fda_output_template: "../lib/pgx/PGX/PGX_template_FDA.xlsx"
+  cpic_output_template: "../lib/pgx/PGX/PGX_template_CPIC.xlsx"
+  genes_without_annotations: "../lib/pgx/PGX/genes_without_annotations.txt"

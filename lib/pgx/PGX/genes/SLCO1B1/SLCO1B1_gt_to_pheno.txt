@@ -1,0 +1,4 @@
+Diplotype	Phenotype	Diplotype Notes	12:21331549_rs4149056_T_C
+SLCO1B1 *1A/*5	SLCO1B1 Decreased function		HET
+SLCO1B1 *5/*5	SLCO1B1 Poor function		HOM
+SLCO1B1 *1A/*1A	SLCO1B1 Normal function		WT

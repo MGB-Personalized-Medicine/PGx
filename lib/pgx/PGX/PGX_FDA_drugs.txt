@@ -1,0 +1,14 @@
+GeneGroup	FDA-Drugs with PGx Labelling
+TPMT	Azathioprine, Mercaptopurine, Thioguanine
+NUDT15	Azathioprine, Mercaptopurine, Thioguanine
+IFNL3	Peginterferon Alfa-2b
+CYP2C9	Celecoxib, Dronabinol, Erdafitinib, Flibanserin, Flurbiprofen, Lesinurad, Meloxicam, Phenytoin, Piroxicam, Siponimod
+CYP2C19	Brivaracetam, Carisoprodol, Citalopram, Clobazam, Clopidogrel, Dexlansoprazole, Diazepam, Doxepin, Escitalopram, Esomeprazole, Flibanserin, Omeprazole, Pantoprazole, Rabeprazole, Voriconazole
+CYP2C9	Warfarin
+VKORC1	Warfarin
+SLCO1B1	Elagolix, Rosuvastatin, Simvastatin
+DPYD	Capecitabine, Fluorouracil
+CYP3A5	Tacrolimus
+CYP4F2	Warfarin
+G6PD	Many drugs - consult the FDA Table of Pharmacogenomic Biomarkers in Drug Labeling at https://www.fda.gov/drugs/science-and-research-drugs/table-pharmacogenomic-biomarkers-drug-labeling
+CYP2D6	Many drugs - consult the FDA Table of Pharmacogenomic Biomarkers in Drug Labeling at https://www.fda.gov/drugs/science-and-research-drugs/table-pharmacogenomic-biomarkers-drug-labeling and the FDA Table of Pharmacogenetic Associations at https://www.fda.gov/medical-devices/precision-medicine/table-pharmacogenetic-associations

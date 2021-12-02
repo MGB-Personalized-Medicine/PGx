@@ -1,0 +1,4 @@
+Diplotype	Phenotype	Diplotype Notes	13:48619855_rs116855232_C_T
+NUDT15 c.415C/c.415C>T	NUDT15 Intermediate metabolizer		HET
+NUDT15 c.415C>T/c.415C>T	NUDT15 Poor metabolizer		HOM
+NUDT15 c.415C/c.415C	NUDT15 Normal metabolizer		WT
