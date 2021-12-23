@@ -1,4 +1,4 @@
-# PGx Pipeline
+# lmPGx v2.1 Pipeline
 Performs genotyping, diplotype identification, phenotyping, and reporting
 
 Warning/Disclaimer:
@@ -31,7 +31,3 @@ source env/bin/activate
 
 * Run the PGx pipeline
 `python3 src/pgx.py -b BAM/CRAM -s SAMPLE_ID  -o OUTDIR -c lib/config.yml`
-  
-#Alternatively, the pipeline can accept a VCF instead of bam. Note though that this has been tested less thoroughly, and the VCF must look like the allbases VCF produced by the variant calling portion of lmPGX
-
-`python3 src/pgx.py -v VCF -s SAMPLE_ID  -o OUTDIR -c lib/config.yml`
