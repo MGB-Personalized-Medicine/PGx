@@ -31,3 +31,7 @@ source env/bin/activate
 
 * Run the PGx pipeline
 `python3 src/pgx.py -b BAM/CRAM -s SAMPLE_ID  -o OUTDIR -c lib/config.yml`
+
+##
+Example files can be found here:
+https://www.dropbox.com/sh/fz7hdf5os79v38j/AAAwH3Btgp9U5a3umKKh1IYwa?dl=0
