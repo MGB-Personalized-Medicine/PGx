@@ -14,7 +14,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='PGxTyper: Discover & Annotate Clinically Actionable Pharmacogenomic Interactions')
     parser.add_argument('-b', dest='bam', required=True, help='Path to BAM file')
     parser.add_argument('-s', dest='sample_long_id', required=True, help='Full sample identifier')
-    parser.add_argument('-a', dest='accession', required=False, help='Sample accession (PM#)')
+    parser.add_argument('-a', dest='accession', required=False, help='Sample accession')
     parser.add_argument('-c', dest='config', required=False, help='confg file')
     parser.add_argument('-o', dest='outdir', required=True, help='Output Directory')
     parser.add_argument('-t', dest='thresholds', required=False, help='thresholds to use for FP detection; "WGS" or "WES"', default='WGS')
