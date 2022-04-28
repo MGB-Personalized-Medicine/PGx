@@ -22,7 +22,7 @@ else:
 
 # Set gt_to_score and gt_to_pheno filenames and paths
 gene_anno_dir = config['pgx']['gene_annotations_dir']
-out_dir = config['pgx']['cy2d6_gt_to_pheno']
+out_dir = config['pgx']['cyp2d6_gt_to_pheno']
 gt_to_score_fname = os.path.join(gene_anno_dir, 'CYP2D6/CYP2D6_gt_to_score.txt')
 if os.path.isfile(gt_to_score_fname):
     print("Using the following gt_to_score file: ", gt_to_score_fname)
